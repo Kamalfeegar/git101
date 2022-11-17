@@ -1,5 +1,5 @@
 # git101
 
 :stuck_out_tongue_closed_eyes:
-https://github.com/Kamalfeegar/git101
-[![An old rock in the desert](/assets/images/shiprock.jpg "Shiprock, New Mexico by Beau Rogers")]("C:\Users\kamal\OneDrive\Skrivbord\colerd hand.webp")
+https://github.com/Kamalfeegar/git101                                                        
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Logo_BILD.svg/1200px-Logo_BILD.svg.png)
