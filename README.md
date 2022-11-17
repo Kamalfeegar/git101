@@ -1,4 +1,4 @@
 # git101
 
-:kissing_close
+:stuck_out_tongue_closed_eyes:
 "https://github.com/Kamalfeegar/git101"
